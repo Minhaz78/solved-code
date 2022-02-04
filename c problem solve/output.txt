@@ -1,0 +1,17 @@
+Semester: 2
+Student Name: qet
+Student id: 12345
+Course Number: 2
+Course Name: df
+Course Credit: 3
+Credit fee: 9000
+Exam fee: 700
+
+Course Name: wert
+Course Credit: 3
+Credit fee: 9000
+Exam fee: 700
+
+Total credit fee: 2358980
+Total exam fee: 1400
+Total Given fee: 19400

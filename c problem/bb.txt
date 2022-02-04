@@ -1,0 +1,24 @@
+Semester: 2
+Student Name: htsr
+Student id: 34232
+Course Number: 1
+Course Name: phy
+Course Credit: 2
+Credit fee: 400
+Exam fee: 300
+
+Total credit fee: 400
+Total exam fee: 300
+Total Given fee: 700
+Semester: 2
+Student Name: jhg
+Student id: 987
+Course Number: 1
+Course Name: dm
+Course Credit: 3
+Credit fee: 600
+Exam fee: 300
+
+Total credit fee: 1000
+Total exam fee: 600
+Total Given fee: 1600

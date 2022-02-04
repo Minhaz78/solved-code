@@ -1,0 +1,17 @@
+Semester: 2
+Student Name: minhaz
+Student id: 1419
+Course Number: 2
+Course Name: sp
+Course Credit: 3
+Credit fee: 5400
+Exam fee: 300
+
+Course Name: spl
+Course Credit: 3
+Credit fee: 5400
+Exam fee: 300
+
+Total credit fee: 2358980
+Total exam fee: 600
+Total Given fee: 11400
